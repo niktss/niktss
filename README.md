@@ -1,4 +1,4 @@
-### This is my (blank) Pages page.
+### [This is my Pages page.](https://niktss.github.io/)
 
 <!--
 **niktss/niktss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
